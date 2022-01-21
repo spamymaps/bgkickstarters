@@ -1,0 +1,8 @@
+{
+  "at_baseid": "airtable base id",
+  "ktkey": "kicktraq key",
+"at_key": "airtable key",
+"kturl": "kicktraq url",
+
+  "pythonexecutable": "python"
+}
