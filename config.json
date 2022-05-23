@@ -1,8 +1,11 @@
 {
-  "at_baseid": "airtable base id",
-  "ktkey": "kicktraq key",
-"at_key": "airtable key",
-"kturl": "kicktraq url",
-
-  "pythonexecutable": "python"
+    "at_baseid": "airtable base id",
+    "at_key": "airtable key",
+    "at_table_name": "table name",
+    "kturl": "kicktraq url",
+    "ktkey": "kicktraq key",
+    "gamefoundurl": "gamefoundurl",
+    "pythonexecutable": "py -3",
+    "currentKSjson": "ksfile.json",
+    "currentGFjson": "gffile.json"
 }
